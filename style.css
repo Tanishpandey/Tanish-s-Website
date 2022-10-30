@@ -38,6 +38,15 @@
         color: grey;
     }
     /* navbar */
+    footer{
+        height: 100px;
+        width: 100%;
+        background-color: black;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
     nav{
         height: 64px;
         width: 100%;
